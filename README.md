@@ -11,18 +11,14 @@ Una aplicación web sencilla que permite a los usuarios:
 - Visualizar el nombre sorteado.
 - Reiniciar el juego y realizar nuevos sorteos.
 
-##💻 Demo
+## 💻 Demo
 
 🔗 [Probar el juego en GitHub Pages](https://guadalupeporra.github.io/Amigo-secreto-Alura/)
 
-##🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 El proyecto está construido utilizando:
 
 HTML: Estructura de la aplicación (facilitada por Alura).
 CSS: Estilo y diseño visual (facilitado por Alura).
 JavaScript: Lógica para el sorteo y la interacción.
 
-## 📚 Créditos
-
-Desarrollado por **Guadalupe Porra**  
-Proyecto del curso [Alura Latam - ONE - G9](https://www.aluracursos.com/)
