@@ -1,4 +1,4 @@
-# Challenge Amigo Secreto Alura
+# Challenge Amigo Secreto - Alura
 Este proyecto es parte del **Challenge "Amigo Secreto"** del curso  
 **"Principiante en Programación G9 - Oracle Next Education (ONE)"** en Alura LATAM.
 
