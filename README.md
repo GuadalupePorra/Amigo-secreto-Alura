@@ -16,7 +16,7 @@ Una aplicación web sencilla que permite a los usuarios:
 
 ## 💻 Demo
 
-🔗 [Probar el juego en GitHub Pages](https://guadalupeporra.github.io/Amigo-secreto-Alura/)
+ Proba el juego aqui! 👉 [Probar el juego en GitHub Pages](https://guadalupeporra.github.io/Amigo-secreto-Alura/)
 
 ## 🛠️ Tecnologías utilizadas
 El proyecto está construido utilizando:
