@@ -22,8 +22,9 @@ HTML: Estructura de la aplicación (facilitada por Alura).
 CSS: Estilo y diseño visual (facilitado por Alura).
 JavaScript: Lógica para el sorteo y la interacción.
 
-## Insignia conseguida por finalizar el challenge:
+## 🏅 Insignia
 
+¡Insignia obtenida por completar el challenge con éxito!  
 ![Insignia de Alura](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)
 
 
