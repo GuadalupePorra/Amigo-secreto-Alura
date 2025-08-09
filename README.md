@@ -2,9 +2,6 @@
 Este proyecto es parte del **Challenge "Amigo Secreto"** del curso  
 **"Principiante en Programación G9 - Oracle Next Education (ONE)"** en Alura LATAM.
 
-![Insignia de Alura](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)
-
-
 ## 📌 Descripción
 
 Una aplicación web sencilla que permite a los usuarios:
@@ -24,4 +21,9 @@ El proyecto está construido utilizando:
 HTML: Estructura de la aplicación (facilitada por Alura).
 CSS: Estilo y diseño visual (facilitado por Alura).
 JavaScript: Lógica para el sorteo y la interacción.
+
+## Insignia conseguida por finalizar el challenge:
+
+![Insignia de Alura](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)
+
 
